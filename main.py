@@ -22,6 +22,8 @@ origins = [
     "http://localhost:3000",
     "https://fitnessgoal.onrender.com",
     "http://fitnessgoal.onrender.com/",
+    "https://fitnessgoalbackend.onrender.com/",
+    "https://fitnessgoalbackend.onrender.com",
 ]
 
 app.add_middleware(
